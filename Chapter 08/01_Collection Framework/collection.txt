@@ -1,0 +1,20 @@
+Collection Framework :-
+=> The collection framework is a set of classes and interfaces that provides implementation of commonly used data structures and algorithms in Java.
+
+For Example,we can use the LinkedList class of the collection framework to implement the linked list data structure.
+
+
+# Advantages of Linked List :
+The use of collection  framework makes it really easy to implement various data structure and reduces the complexity of writing code.
+It also provides data structure for specific types of data.
+For example :-
+1.Set - For unique data.
+2.Map - To store data in key/value pairs.
+
+# Commonly used Collection:
+
+1.Arraylist
+2.LinkedList
+3.Hashset
+4.HashMap
+5.Algorithms
